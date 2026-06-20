@@ -50,8 +50,6 @@ My expertise combines data science, machine learning, deep learning, API develop
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filbertcha&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filbertcha&layout=compact&theme=tokyonight)
 
 ---
