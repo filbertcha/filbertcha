@@ -1,41 +1,66 @@
-<h1 align="center">Hi 👋, I'm Filbert C. B. Kristianto</h1>
-<h3 align="center">Python Developer</h3>
+# Hi, I'm Filbert Chaitra Bessel Kristianto
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=filbertcha&label=Profile%20views&color=0e75b6&style=flat" alt="filbertcha" />
-</p>
+## Data Scientist | Backend Developer
 
----
+I am a Data Scientist and Backend Developer passionate about building data-driven applications, machine learning solutions, and scalable backend systems.
 
-### 💡 About Me
-
-- 🔭 I’m currently working on projects related to **data science** and **machine learning**
-- 🌱 I’m currently exploring **deep learning**, **model deployment**, and **Flask-based APIs**
-- 🧠 I love solving real-world problems using **Python** and **data-driven approaches**
-- 🌐 I also enjoy building **web applications** with **HTML, CSS, JavaScript**, and **Flask**
-- 💬 Ask me about anything related to **Python**, **Flask**, or **ML projects**
-- 📫 Reach me at: rememilia937@gmail.com
+My expertise combines data science, machine learning, deep learning, API development, and web application engineering to transform data into impactful business solutions.
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</p>
+- 📊 Data Scientist with experience in Machine Learning, Deep Learning, Data Analysis, and Data Visualization.
+- ⚙️ Backend Developer specializing in Node.js, Express.js, Python, and RESTful APIs.
+- 🤖 Experienced in integrating Machine Learning and Deep Learning models into production-ready web applications.
+- 📈 Skilled in developing business intelligence dashboards using Tableau.
 
 ---
 
-### 📫 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="mailto:rememilia937@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/filbertkristianto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend Development
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Data Science & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-EE4C2C?style=for-the-badge&logo=keras)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### Data Visualization
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filbertcha&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filbertcha&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Current Focus
+
+- Machine Learning Engineering
+- Deep Learning Applications
+- Backend System Design
+- Data Analytics & Business Intelligence
+
+---
